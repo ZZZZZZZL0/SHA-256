@@ -1,3 +1,5 @@
+*.txt linguist-language=magma
+
 # save as SHA-256.txt before loaded in Magma
 # load "SHA-256.txt";
 
