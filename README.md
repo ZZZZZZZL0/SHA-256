@@ -1,4 +1,6 @@
 # SHA-256
+*.cs linguist-language=magma
+*.ico linguist-language=magma
 SHA-256.Magma
 This is an INFORMAL edition of SHA-256, since the input are supposed to be no more than 512 bits, i.e., there is only ONE 512-bit block.  
 The formal edition will come soon.
