@@ -1,0 +1,3 @@
+*.js linguist-language=magma
+*.css linguist-language=magma
+*.html linguist-language=magma
